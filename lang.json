@@ -1,0 +1,29 @@
+{
+    "en": {
+        "windows_platform": "Usage on Windows platform.",
+        "linux_platform": "Usage on Linux platform.",
+        "login_error": "User {username} is in error, possibly invalid credentials.",
+        "user_not_premium": "User {username} is no longer a premium member.",
+        "user_is_premium": "User {username} is a premium member.",
+        "users_lost_premium": "These users are no longer premium !",
+        "all_users_premium": "All monitored users are premium !",
+        "users_in_error": "These users are in error, possibly invalid credentials.",
+        "discord_notification": "<@{discord_id}>\n```{user_list}```",
+        "discord_notification_success": "Message sent successfully on Discord!",
+        "discord_notification_error": "Error sending message on Discord."
+    },
+    "fr": {
+        "windows_platform": "Utilisation sous Windows",
+        "linux_platform": "Utilisation sous linux",
+        "login_error": "L'utilisateur {username} est en erreur, peut-être des informations d'identification non valides.",
+        "user_not_premium": "L'utilisateur {username} n'est plus premium.",
+        "user_is_premium": "L'utilisateur {username} est premium.",
+        "users_lost_premium": "Ces utilisateurs ne sont plus premium !",
+        "all_users_premium": "Tous les utilisateurs surveillés sont premium",
+        "users_in_error": "Ces utilisateurs sont en erreur, peut-être des informations d'identification non valides.",
+        "discord_notification": "<@{discord_id}>\n```{user_list}```",
+        "discord_notification_success": "Message envoyé avec succès sur Discord !",
+        "discord_notification_error": "Erreur lors de l'envoi du message sur Discord."
+    }
+}
+xiwng
